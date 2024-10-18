@@ -10,7 +10,7 @@
 - [Conclusion](#conclusion)
 
 ## Project Overview
-The Citrone Performance Project is focused on building a machine learning model to predict student progression on the a learning management platform, Citrone. Specifically, it predicts whether a student will graduate from the beginner class to the intermediate class based on various performance indicators.
+The Citrone Performance Project is focused on building a machine learning model to predict student progression on the Citrone learning management platform. The model predicts whether a student will graduate from the beginner class to the intermediate class based on various performance indicators, helping educators and administrators identify students who may need additional support or are ready to advance. The project involves data preprocessing, feature selection, model building, and performance evaluation to ensure accurate predictions and actionable insights.
 
 ## Dataset
 The dataset comprises several fields relevant to the student’s performance and eligibility:
